@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCOE.ProvisioningConsole", "SPCOE.ProvisioningConsole\SPCOE.ProvisioningConsole.csproj", "{84297612-13C1-497A-AE23-23A41761E5B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", "{090DE2A6-C4CE-4E2F-B793-D97CD95750BB}"
+	ProjectSection(SolutionItems) = preProject
+		Assemblies\Microsoft.Office.Client.Education.dll = Assemblies\Microsoft.Office.Client.Education.dll
+		Assemblies\Microsoft.Office.Client.Policy.dll = Assemblies\Microsoft.Office.Client.Policy.dll
+		Assemblies\Microsoft.Office.Client.TranslationServices.dll = Assemblies\Microsoft.Office.Client.TranslationServices.dll
+		Assemblies\Microsoft.SharePoint.Client.dll = Assemblies\Microsoft.SharePoint.Client.dll
+		Assemblies\Microsoft.SharePoint.Client.DocumentManagement.dll = Assemblies\Microsoft.SharePoint.Client.DocumentManagement.dll
+		Assemblies\Microsoft.SharePoint.Client.Publishing.dll = Assemblies\Microsoft.SharePoint.Client.Publishing.dll
+		Assemblies\Microsoft.SharePoint.Client.Runtime.dll = Assemblies\Microsoft.SharePoint.Client.Runtime.dll
+		Assemblies\Microsoft.SharePoint.Client.Search.Applications.dll = Assemblies\Microsoft.SharePoint.Client.Search.Applications.dll
+		Assemblies\Microsoft.SharePoint.Client.Search.dll = Assemblies\Microsoft.SharePoint.Client.Search.dll
+		Assemblies\Microsoft.SharePoint.Client.ServerRuntime.dll = Assemblies\Microsoft.SharePoint.Client.ServerRuntime.dll
+		Assemblies\Microsoft.SharePoint.Client.Taxonomy.dll = Assemblies\Microsoft.SharePoint.Client.Taxonomy.dll
+		Assemblies\Microsoft.SharePoint.Client.UserProfiles.dll = Assemblies\Microsoft.SharePoint.Client.UserProfiles.dll
+		Assemblies\Microsoft.SharePoint.Client.WorkflowServices.dll = Assemblies\Microsoft.SharePoint.Client.WorkflowServices.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84297612-13C1-497A-AE23-23A41761E5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84297612-13C1-497A-AE23-23A41761E5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84297612-13C1-497A-AE23-23A41761E5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84297612-13C1-497A-AE23-23A41761E5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
